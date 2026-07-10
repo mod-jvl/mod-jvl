@@ -14,4 +14,4 @@ Redes de Datos: Aprendiendo sobre el modelo OSI, direccionamiento IP (IPv4/IPv6)
 
 Hardware & Automatización: Diseñando la lógica para proyectos prácticos (como sistemas de control de acceso basados en NFC).
 
-Entorno: Familiarizándome con Git, la terminal de Linux y flujos de trabajo sencillos.
+Entorno: Familiarizándome con Git y flujos de trabajo sencillos.
