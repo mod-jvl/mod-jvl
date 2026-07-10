@@ -1,5 +1,11 @@
 ## Hi there 👋
-# ⚙️ mod-jvl
+# mod-jvl
+{
+  "status": "Learning & Building",
+  "level": "Practitioner / Junior Student",
+  "methodology": "AI-Assisted Learning",
+  "goals": ["Understand code", "Fix bugs", "Learn networking"]
+}
 
 ```json
 {
