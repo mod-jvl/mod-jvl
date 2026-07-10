@@ -12,6 +12,6 @@ Python Básico/Intermedio: Experimentando con scripts, automatizaciones simples 
 
 Redes de Datos: Aprendiendo sobre el modelo OSI, direccionamiento IP (IPv4/IPv6) y topologías en entornos controlados.
 
-Hardware & Automatización: Diseñando la lógica para proyectos prácticos (como sistemas de control de acceso basados en NFC).
+Hardware & Automatización: Diseñando la lógica para proyectos prácticos
 
 Entorno: Familiarizándome con Git y flujos de trabajo sencillos.
