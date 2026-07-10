@@ -1,4 +1,13 @@
 ## Hi there 👋
+# ⚙️ mod-jvl
+
+```json
+{
+  "status": "Learning & Building",
+  "level": "Practitioner / Junior Student",
+  "methodology": "AI-Assisted Learning",
+  "goals": ["Understand code", "Fix bugs", "Learn networking"]
+}
 
 <!--
 **mod-jvl/mod-jvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
